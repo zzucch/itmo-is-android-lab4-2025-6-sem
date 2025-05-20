@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_editor"
+        android:icon="@drawable/ic_edit"
+        android:title="@string/editor" />
+
+    <item
+        android:id="@+id/nav_preview"
+        android:icon="@drawable/ic_preview"
+        android:title="@string/preview" />
+
+    <item
+        android:id="@+id/nav_download"
+        android:icon="@drawable/ic_download"
+        android:title="@string/download" />
+</menu>

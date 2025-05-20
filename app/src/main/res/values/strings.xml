@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Markdown Editor</string>
+    <string name="editor">Editor</string>
+    <string name="preview">Preview</string>
+    <string name="download">Download</string>
+    <string name="editor_hint">Write your markdown here…</string>
+    <string name="download_hint">Enter Markdown file URL:</string>
+    <string name="url_hint">https://example.com/file.md</string>
+    <string name="loading">Loading…</string>
+    <string name="image">image</string>
+</resources>
